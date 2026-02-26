@@ -22,13 +22,13 @@ SOFTWARE.
 
 ---
 
-### ⚠️ Catatan Penting Mengenai Data (Data Disclaimer)
+⚠️ Catatan Penting Mengenai Data (Data Disclaimer)
 
-Kode sumber dalam repositori ini dilisensikan di bawah **MIT License**. Namun, harap diperhatikan hal-hal berikut terkait dataset yang digunakan:
+Kode sumber dalam repositori ini dilisensikan di bawah MIT License. Namun, harap diperhatikan hal-hal berikut terkait dataset yang digunakan:
 
-1. **Sumber Data**: Dataset (`male_players.csv`) berisi statistik pemain yang berasal dari game **EA Sports FC 25**. Data tersebut merupakan kekayaan intelektual (Intellectual Property) dari **Electronic Arts (EA)**.
-2. **Hak Penggunaan**: Lisensi MIT pada repositori ini **hanya berlaku untuk kode program** (skrip Python, notebook, dan logika algoritma). Lisensi ini **TIDAK** mencakup hak atas dataset itu sendiri.
-3. **Penggunaan Dataset**: 
+1.Sumber Data: Dataset (`male_players.csv`) berisi statistik pemain yang berasal dari game EA Sports FC 25. Data tersebut merupakan kekayaan intelektual (Intellectual Property) dari Electronic Arts (EA).
+2. Hak Penggunaan: Lisensi MIT pada repositori ini hanya berlaku untuk kode program (skrip Python, notebook, dan logika algoritma). Lisensi ini TIDAK mencakup hak atas dataset itu sendiri.
+3.Penggunaan Dataset: 
    - Dataset disertakan/digunakan hanya untuk tujuan **edukasi, riset akademis, dan portofolio pribadi**.
    - Dilarang mendistribusikan, menjual, atau menggunakan dataset ini untuk keperluan komersial tanpa izin tertulis dari pemegang hak cipta (EA Sports).
    - Jika Anda ingin menggunakan repositori ini untuk proyek komersial, Anda wajib menyediakan dataset Anda sendiri yang memiliki lisensi kompatibel atau telah memperoleh izin penggunaan data.
