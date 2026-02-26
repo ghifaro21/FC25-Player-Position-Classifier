@@ -484,7 +484,7 @@ Prediction Probabilities:
 
 ---
 
-> 📝 **Note**: Proyek ini merupakan bagian dari tugas besar Pemrograman 1 dengan penerapan supervised machine learning dalam konteks video game (EA Sports FC 25).
-**Author**: [Ilham Taufiq Ghifari]  
-**Date**: [2 February 2026]  
+> 📝 **Note**: Proyek ini merupakan bagian dari tugas besar Metode Penelitian dengan penerapan supervised machine learning dalam konteks video game (EA Sports FC 25).
+**Author**: Ilham Taufiq Ghifari
+**Date**: 2 February 2026  
 **Repository**: `Project1_DT_FC25.ipynb`
